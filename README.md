@@ -15,6 +15,8 @@ TSD is my Artificial Intelligence course final project which has been implemente
 - Stopping and Parking are prohibited
 
 In the following pictures, you can see the model detection examples:
+
+
 ![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/1.jpg)
 ![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/2.jpg)
 ![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/3.jpg)
