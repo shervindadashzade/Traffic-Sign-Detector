@@ -1,8 +1,5 @@
-# Traffic Sign Detector
-
-Traffic Sign Detector has implemented using Python and YOLOv5 library. The used dataset includes 1,325 pictures which have been collected and annotated by me and my friends.
-
-This project can detect all of the following signs:
+# Traffic Sign Detector (TSD)
+TSD is my Artificial Intelligence course final project which has been implemented using Python, CUDA, and YOLOv5 library. The dataset is the results of the efforts of my friends and me which includes 1,325 pictures collected and annotated from traffic signs. The classes that this model is capable of detecting are as follows:
 
 - Do Not Enter
 - Keep Right
@@ -12,19 +9,17 @@ This project can detect all of the following signs:
 - No Left Turn
 - Keep Straight
 - No Right Turn
-- No U Turn
+- No U-Turn
 - Parking
 - Bicycle
-- Stopping and Parking is prohibited
+- Stopping and Parking are prohibited
 
-It should be mentioned that labelImg software used to annotate pictures.
-
-Sample outputs produced by the code:
-![](./examples/1.jpg)
-![](./examples/2.jpg)
-![](./examples/3.jpg)
-![](./examples/4.jpg)
-![](./examples/5.jpg)
+In the following pictures, you can see the model detection examples:
+![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/1.jpg)
+![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/2.jpg)
+![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/3.jpg)
+![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/4.jpg)
+![](https://raw.githubusercontent.com/shervindadashzade/Traffic-Sign-Detector/main/examples/5.jpg)
 
 
 
